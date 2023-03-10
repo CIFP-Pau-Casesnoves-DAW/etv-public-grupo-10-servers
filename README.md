@@ -2,4 +2,7 @@
 
 <p align="center">
 <a href="http://www.rampacom.com/ProyectoFinal/public/api/documentation">Link a la documentacion de la api</a>
+<a href="http://www.rampacom.com/client/inicio">Link a la web react</a>
+<a href="https://github.com/DimitryCC/rampacom/tree/LeeroyJenkins">Link a los Documentos React</a>  
+<a href="https://github.com/DimitryCC/PracticaFinal/tree/Trabajo">Link a los Documentos De la Api</a>  
 </p>
